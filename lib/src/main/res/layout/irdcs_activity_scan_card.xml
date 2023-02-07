@@ -94,6 +94,7 @@
         android:textAlignment="center"
         android:textSize="16dp"
         android:textStyle="bold"
+        android:textColor="@color/irdcs_white_background"
         android:text="Hold card here.it will scan \nautomatically"
         app:layout_constraintBottom_toBottomOf="@+id/texture"
         app:layout_constraintEnd_toEndOf="parent"
