@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardScanner</string>
+    <string name="scan_card_debug">scan_card_debug</string>
+    <string name="scan_card_alt_text">scan_card_alt_text</string>
+</resources>
